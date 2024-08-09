@@ -56,7 +56,7 @@
 
     <spotless.check.skip>true</spotless.check.skip>
     <rabbitmq.version>5.21.0</rabbitmq.version>
-    <slf4j.version>2.0.13</slf4j.version>
+    <slf4j.version>2.0.15</slf4j.version>
     <commons-cli.version>1.8.0</commons-cli.version>
     <metrics.version>4.2.26</metrics.version>
     <micrometer.version>1.13.2</micrometer.version>
@@ -68,7 +68,7 @@
     <junit.jupiter.version>5.10.3</junit.jupiter.version>
     <mockito.version>5.12.0</mockito.version>
     <assertj.version>3.26.3</assertj.version>
-    <commons-lang3.version>3.15.0</commons-lang3.version>
+    <commons-lang3.version>3.16.0</commons-lang3.version>
     <jmh.version>1.37</jmh.version>
 
     <!-- to sign artifacts when releasing -->
